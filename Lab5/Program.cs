@@ -15,7 +15,7 @@ Console.WriteLine("CPEN223 Lab 5");
 
 //Do not change the program skeleton: keep the class name, method names,
 //parameters, and return types exactly as given.
-//Do not use LINQ, and do not use Console inside the GenomeAnalyzer methods.
+//Do not use LINQ, and do not use Console inside the GraphLibrary methods.
 
 public static class GraphLibrary
 {
